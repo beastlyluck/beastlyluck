@@ -1,20 +1,22 @@
 # www.DEEPSIX.com
 
+**Open to work — Data Scientist · Data Analyst · Data Engineer**
+
 **Atharva Jitendra Khaire** · Master of Data Science, Monash University · Melbourne
 
-The public manuscript is **[www.DEEPSIX.com](https://deepsix-pi.vercel.app)** — a data-science volume you can walk through. Career, coursework and six digital twins are told as figures, comic pages and live boards, not a slide deck.
+The public manuscript is **[www.DEEPSIX.com](https://deepsix-pi.vercel.app)**. It is a data-science and analytics portfolio: six digital twins, twenty-two cases, live boards. That is the capability — not a list of frameworks.
 
-> The world is no longer a dataset. It is a twin that breathes.
+> Looking for a Data Scientist, Data Analyst, or Data Engineer role.
 
-## What this is
+## What I am hired to do
 
-I build systems that have to survive contact with a real process: a gust, a thermal limit, a ward census, a yard that fills, a cell that must not restart itself. DEEPSIX is the book of that work.
+**Data scientist.** Frame a question, pick a method, hold a number to a real process. Forecasting, causal inference, uplift, synthetic control, PINNs, policy gradients, privacy-preserving occupancy. I write the failure down.
 
-- **Volume Two** is the main work: six digital twins, each with its own stack, honesty notes and a board you can open.
-- **Volume One** is how the career is told: six chapters, twenty-two analytics cases, each with method docs and a runnable `main.py`.
-- Source for the site: [beastlyluck/deepsix](https://github.com/beastlyluck/deepsix)
+**Data analyst.** Turn a messy log into a desk someone can run: ED flow, rent stress, grid peaks, invoice leaks, inspection KPIs, exec scorecards. Interval, gate, and a sentence a manager can use.
 
-Coursework for the Master of Data Science is complete. I am on professional practice (FIT5122) and the industry studio (FIT5120).
+**Data engineer.** Keep the number alive after the notebook: Parquet lakes, Avro/SQL feature stores, nightly DAG contracts, reason-coded score APIs, ONNX and TorchScript on the edge.
+
+Python first. NumPy, Pandas, SciPy, scikit-learn. PyTorch when the twin must be differentiable. SQL when yesterday's number has to match this morning.
 
 ## Volume Two — digital twins
 
@@ -27,23 +29,17 @@ Coursework for the Master of Data Science is complete. I am on professional prac
 | Kratos | ForgeX | Acoustic + vision fusion, HOLD interlock | [forgex](https://github.com/beastlyluck/forgex) |
 | Naruto | TerraTwin | Closed-loop climate, FQI raced against PID | [terratwin](https://github.com/beastlyluck/terratwin) |
 
-Stacks are not flattened across twins. A swarm controller, a grid LP, a clinical ODE, a port DES, a cell fusion score and a farm policy do not belong in the same runtime.
+Site source: [beastlyluck/deepsix](https://github.com/beastlyluck/deepsix)
 
-## Volume One — chapters
+## Volume One — analysis cases
 
-Illusionist, Singularity, Prince, Swordsman, Prime, Weaver. Healthcare occupancy, night-economy counterfactuals, campus load, SKU hierarchy, uplift, synthetic control, land-use change, inspection KPIs, nightly warehouses, score APIs, supplier graphs, fraud rings, and four Victorian field desks.
+Illusionist through Weaver, plus four Victorian field desks: ward occupancy, night-economy DiD, campus load, SKU hierarchy, retention uplift, fare synthetic control, land-use change, inspection KPIs, nightly warehouses, score APIs, supplier graphs, fraud rings.
 
-Every case generates its own synthetic stand-in, writes `outputs/`, and opens as `site/index.html`.
-
-## How I work
-
-Python first. NumPy, SciPy, scikit-learn, PyTorch where the twin needs a differentiable sim. SQL and contracts when a number has to survive the night. C++ / libtorch, gRPC, ONNX, FastAPI, Streamlit when the artefact has to leave the notebook. Blender and Unreal when the figure has to stand in the scene.
-
-I write the failure down. AeroTwin’s “real” world is held-out parameters, not flight logs. ForgeX scores a later shift. TerraTwin’s last quick FQI lost to PID. That is the point of a twin: a number you can argue with.
+Coursework is complete. FIT5122 and FIT5120 are in progress.
 
 ## Contact
 
 - Site: [www.DEEPSIX.com](https://deepsix-pi.vercel.app)
 - Email: [atharvakhaire64@gmail.com](mailto:atharvakhaire64@gmail.com)
 - LinkedIn: [atharvakhaire](https://linkedin.com/in/atharvakhaire)
-- Melbourne, VIC
+- Melbourne, VIC — open to work
