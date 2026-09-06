@@ -41,5 +41,5 @@ Coursework is complete. FIT5122 and FIT5120 are in progress.
 
 - Site: [www.DEEPSIX.com](https://deepsix-pi.vercel.app)
 - Email: [atharvakhaire64@gmail.com](mailto:atharvakhaire64@gmail.com)
-- LinkedIn: [atharvakhaire](https://linkedin.com/in/atharvakhaire)
+- LinkedIn: [atharva-khaire-497119156](https://www.linkedin.com/in/atharva-khaire-497119156)
 - Melbourne, VIC — open to work
